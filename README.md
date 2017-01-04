@@ -8,6 +8,9 @@ Data was gathered from participants in experimental speed dating events from 200
 
 -------------------------------------------------------------------------
 
-For report -> Open EDA.md
+For report -> 
+- Open EDA.md
 
-For proper report (Including dynamic graphs) :-> https://www.kaggle.com/gauravd2196/d/annavictoria/speed-dating-experiment/exploratory-data-analysis
+- Or you can open and copy EDA.html and then save it on your computer as .html format. Open .html file that you have saved to see report. This method is RECOMMENDED as it will have dynamic graphs too
+
+Or you can see report here :-> https://www.kaggle.com/gauravd2196/d/annavictoria/speed-dating-experiment/exploratory-data-analysis
